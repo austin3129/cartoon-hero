@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: helvetica, arial;
+	font-size: 16px;
+	line-height: 23px;
 }
 
 header{
@@ -29,7 +31,7 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 20px;
 }
 
 main img{
@@ -40,4 +42,39 @@ main img{
 h2{
 	font-size: 30px;
 	color: #226FC1;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #226FC1;
+}
+a:hover{
+	background-color: #483a94;
+	color: white;
+}
+
+footer{
+	background-color: #226FC1;
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+
+footer p{
+	margin: 0px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0px;
 }
