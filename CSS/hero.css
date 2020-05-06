@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	font-family: helvetica, arial;
+}
+
+header{
+	background-color: #226FC1;
+	text-align: center; 
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Kreon', serif;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+
+}
+
+h2{
+	font-size: 30px;
+	color: #226FC1;
+}
