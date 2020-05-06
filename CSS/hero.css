@@ -49,8 +49,8 @@ a{
 	color: #226FC1;
 }
 a:hover{
-	background-color: #483a94;
-	color: white;
+	opacity: .5;
+	background-color: transparent;
 }
 
 footer{
